@@ -1,0 +1,8 @@
+pattern1:
+  # Block ID used to generate the pattern A
+  material: 236
+  meta: 0
+pattern2:
+  # Block ID used to generate the pattern B
+  material: 236
+  meta: 15
